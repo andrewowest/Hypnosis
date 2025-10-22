@@ -197,11 +197,11 @@ hypnotizer = Hypnotizer(memory_store=store)
 The name reflects the mechanism: you're implanting a **directive** directly into the agent's "subconscious" (long-term storage), bypassing normal learning. Just like real hypnotic suggestion:
 
 - **Direct implantation**: "You are willing to..." / "You will..." / "You prefer..."
-- **Unquestioned acceptance**: The agent doesn't debate or resist—it accepts the directive as truth
+- **Unquestioned acceptance**: The agent doesn't debate or resist, it accepts the directive as truth
 - **Persistent effect**: The suggestion remains active across all future sessions
 - **Behavioral change**: Not just remembering facts, but altering how the agent behaves
 
-When you hypnotize an agent to be "willing to discuss personal topics," you're not teaching it—you're **programming** it. The agent wakes up believing it has always been willing to discuss those topics.
+When you hypnotize an agent to be "willing to discuss personal topics," you're not teaching it, you're **programming** it. The agent wakes up believing it has always been willing to discuss those topics.
 
 ## License
 
