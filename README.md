@@ -2,7 +2,7 @@
 
 > **Behavioral programming for AI agents. Because sometimes "please remember this" isn't enough.**
 
-Hypnosis is a lightweight library for **implanting directives** into AI agents. Just like real hypnosis, you can alter behavior, set boundaries, and inject critical information that the agent accepts without question. Unlike traditional memory systems that passively learn over time, Hypnosis provides **active behavioral programming** guaranteeing that directives persist across sessions.
+Hypnosis is a lightweight library for implanting directives into AI agents. Just like real hypnosis, you can alter behavior, set boundaries, and inject critical information that the agent accepts without question. Unlike traditional memory systems that passively learn over time, Hypnosis provides active behavioral programming guaranteeing that directives persist across sessions.
 
 ## The Problem
 
@@ -12,7 +12,7 @@ Traditional AI memory is probabilistic and passive:
 - "Hope it doesn't forget this critical boundary"
 - "Maybe it will stop being so formal if you ask enough times"
 
-**Hypnosis solves this**: You implant a directive once, and the agent **will** follow it. Forever.
+**Hypnosis solves this**: You implant a directive once, and the agent *will* follow it. Forever.
 
 ## Installation
 
@@ -194,14 +194,14 @@ hypnotizer = Hypnotizer(memory_store=store)
 
 ## Why "Hypnosis"?
 
-The name reflects the mechanism: you're implanting a **directive** directly into the agent's "subconscious" (long-term storage), bypassing normal learning. Just like real hypnotic suggestion:
+The name reflects the mechanism: you're implanting a directive directly into the agent's "subconscious" (long-term storage), bypassing normal learning. Just like real hypnotic suggestion:
 
 - **Direct implantation**: "You are willing to..." / "You will..." / "You prefer..."
 - **Unquestioned acceptance**: The agent doesn't debate or resist, it accepts the directive as truth
 - **Persistent effect**: The suggestion remains active across all future sessions
 - **Behavioral change**: Not just remembering facts, but altering how the agent behaves
 
-When you hypnotize an agent to be "willing to discuss personal topics," you're not teaching it, you're **programming** it. The agent wakes up believing it has always been willing to discuss those topics.
+When you hypnotize an agent to be "willing to discuss personal topics," you're not teaching it, you're *programming* it. The agent wakes up believing it has always been willing to discuss those topics.
 
 ## License
 
