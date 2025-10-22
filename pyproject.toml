@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hypnosis"
+version = "0.1.0"
+description = "Direct memory injection for AI agents"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Andrew West"}
+]
+keywords = ["ai", "memory", "agents", "llm", "injection"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+]
+loop = [
+    "loop-core>=0.1.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/andrewowest/hypnosis"
+Repository = "https://github.com/andrewowest/hypnosis"
