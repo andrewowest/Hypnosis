@@ -209,4 +209,4 @@ MIT
 
 ## Credits
 
-Developed as part of the [LOOP cognitive architecture][https://github.com/andrewowest/LOOP](https://github.com/andrewowest/LOOP).
+Developed as part of the [LOOP cognitive architecture](https://github.com/andrewowest/LOOP).
